@@ -12,26 +12,26 @@
 
 
 <p align="center">
-  Heey! So good to see you here. <br>I'm Kaká, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also, and I'm working for the <strong></strong>banking industry</strong>
-<strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>..<br />
-Using the tech to make word better.
+  Heey! So good to see you here. <br>I'm Amanda, the great <strong>problem solver</strong>! <br> I am a <strong>graduating in Industrial Automation</strong> also, and I'm working on the <strong></strong>maintenance industry</strong>
+<strong>I'm starting to developing programation integrated to eletronic circuits </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>..<br />
+Using the tech to make world better and automatizated.
 
 </p>
 
 <p align="center">
-  I'm an <strong>Icamiaba</strong> in tech!<br />
+  I'm still a <strong>student</strong> in tech!<br />
 </p>
 
 <p align="center">
-  💼 Skills: <strong>Overcome obstacles with a big smile.</strong>
+  💼 Skills: <strong>Bring many ways to solution one problem.</strong>
 </p>
 
 <p align="center">
-  👩‍💻  Stack: <strong>Backend and Frontend.</strong>
+  👩‍💻  Stack: <strong>Embedded Systems and Firmware Developmen.</strong>
 </p>
 
 <p align="center">
-  🚀  Continuous Learning: <strong>Java, C#, JavaScript, Blazor, Typescript, React, Webflux, Solidity, Outsystems, SASS, UI, UX.</strong>
+  🚀  Continuous Learning: <strong> C, C++ and Assembly.</strong>
 </p>
 
 <p align="center">
