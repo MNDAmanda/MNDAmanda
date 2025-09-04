@@ -1,7 +1,7 @@
 
 <span align="center">
 
-##  Hellooo Helloo World! 👋 
+##  Hello World! 👋 
 
 </span>
 
@@ -14,7 +14,7 @@
 <p align="center">
   Heey! So good to see you here. <br>I'm Amanda, the great <strong>problem solver</strong>! <br> I am a <strong>graduating in Industrial Automation</strong> also, and I'm working on the <strong></strong>maintenance industry</strong>
 <strong>I'm starting to developing programation integrated to eletronic circuits </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>..<br />
-Using the tech to make world better and automatizated.
+Using the tech to make world better and automated.
 
 </p>
 
@@ -27,7 +27,7 @@ Using the tech to make world better and automatizated.
 </p>
 
 <p align="center">
-  👩‍💻  Stack: <strong>Embedded Systems and Firmware Developmen.</strong>
+  👩‍💻  Stack: <strong>Embedded Systems, Firmware Development and Eletronics / Hardware.</strong>
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ Using the tech to make world better and automatizated.
 
 
 <div align="center">
-<h2>Let's make things working on their own!!!</h2>
+<h2>Let’s bring circuits and code to life!</h2>
 <img src="https://media.giphy.com/media/xT77XHIPBBGZL9m62I/giphy.gif" width="400px" />
 </div>
 
