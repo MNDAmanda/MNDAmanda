@@ -1,22 +1,14 @@
 
 <span align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00008B" alt="Header" width="100%">
 
-##  Hello World! 👋 
-
+  <p align="center">
+  Hi there, I'm Amanda! 
+</p>
+  
 </span>
-
-
-<div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
-</div>
-
 <p align="center">
-
-
-<p align="center">
-  Hi there! <br>I'm Amanda<br> I am a <strong>graduating in Industrial Automation</strong> also, and I'm working on the <strong></strong>maintenance industry</strong>
-<strong>I'm starting to developing programation integrated to eletronic circuits helps me about who <strong>I want to be</strong> and what <strong>I want to do</strong>..<br />
-Using everythhing I learned to make world better and automated.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0C16F7&width=435&lines=I'm+student+of+Industrial+Automation;I+make+codes+aplied+on+eletronic" alt="Typing SVG" /></a>
 
 </p>
 
@@ -47,11 +39,6 @@ Using everythhing I learned to make world better and automated.
  
 </p>
 
-
-<div align="center">
-<h2>Let’s bring circuits and code to life!</h2>
-<img src="https://media.giphy.com/media/xT77XHIPBBGZL9m62I/giphy.gif" width="400px" />
-</div>
 
 
 
