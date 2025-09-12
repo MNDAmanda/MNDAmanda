@@ -10,20 +10,14 @@
 <img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
 </div>
 
+<p align="center">
+
 
 <p align="center">
-  Heey! So good to see you here. <br>I'm Amanda, the great <strong>problem solver</strong>! <br> I am a <strong>graduating in Industrial Automation</strong> also, and I'm working on the <strong></strong>maintenance industry</strong>
-<strong>I'm starting to developing programation integrated to eletronic circuits </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>..<br />
-Using the tech to make world better and automated.
+  Hi there! <br>I'm Amanda<br> I am a <strong>graduating in Industrial Automation</strong> also, and I'm working on the <strong></strong>maintenance industry</strong>
+<strong>I'm starting to developing programation integrated to eletronic circuits helps me about who <strong>I want to be</strong> and what <strong>I want to do</strong>..<br />
+Using everythhing I learned to make world better and automated.
 
-</p>
-
-<p align="center">
-  I'm still a <strong>student</strong> in tech!<br />
-</p>
-
-<p align="center">
-  💼 Skills: <strong>Bring many ways to solution one problem.</strong>
 </p>
 
 <p align="center">
