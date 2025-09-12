@@ -31,7 +31,7 @@ Using the tech to make world better and automated.
 </p>
 
 <p align="center">
-  🚀  Continuous Learning: <strong> C, C++ and Assembly.</strong>
+  🚀  Continuous Learning: <strong> C, C++, Python and Assembly.</strong>
 </p>
 
 <p align="center">
