@@ -36,7 +36,9 @@
  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=probot&logoColor=white" height="25"/>
- 
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00008B&text=&section=footer" alt="Footer" width="100%">
+
 </p>
 
 
