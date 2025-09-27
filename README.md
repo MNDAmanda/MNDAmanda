@@ -37,6 +37,11 @@
  <img src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=probot&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/Tinkercad-FF6F00?logo=tinkercad&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/Proteus-0057A8?logo=Proteus&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/AutoCAD-E60000?logo=AutoCAD&logoColor=white" height="25"/>
+
+ 
+
 
 
  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00008B&text=&section=footer" alt="Footer" width="100%">
