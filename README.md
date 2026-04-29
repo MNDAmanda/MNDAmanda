@@ -38,7 +38,6 @@
  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/Tinkercad-FF6F00?logo=tinkercad&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/Proteus-0057A8?logo=Proteus&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/AutoCAD-E60000?logo=AutoCAD&logoColor=white" height="25"/>
 
  
 
