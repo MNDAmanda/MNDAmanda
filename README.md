@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  🚀  Continuous Learning: <strong> C, C++, Python and Assembly.</strong>
+  🚀  Continuous Learning: <strong> C, C++, JSON and Assembly.</strong>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
   
  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" height="25"/> 
  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-JSON-3776AB?style=flat-square&logo=python&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=probot&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/Tinkercad-FF6F00?logo=tinkercad&logoColor=white" height="25"/>
